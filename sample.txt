@@ -14,3 +14,4 @@ comparing branches
 testing merge fast forward
 testing merge with fast forwardw
 testing merge with ff
+second branch
