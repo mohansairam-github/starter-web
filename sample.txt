@@ -12,3 +12,4 @@ sample10
 testing branches
 comparing branches
 testing merge fast forward
+testing merge with fast forwardw
