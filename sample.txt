@@ -16,3 +16,4 @@ testing merge with fast forwardw
 testing merge with ff
 second branch
 second branch without ff
+checking changes in both branches on different files
