@@ -11,3 +11,4 @@ sample9
 sample10
 testing branches
 comparing branches
+testing merge fast forward
