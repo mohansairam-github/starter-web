@@ -20,4 +20,4 @@ checking changes in both branches on different files
 changes made at master branch
 REALWORK done at realwork branch
 rebasing example
-
+aborting rebase
