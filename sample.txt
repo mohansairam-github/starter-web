@@ -21,3 +21,5 @@ changes made at master branch
 REALWORK done at realwork branch
 rebasing example
 aborting rebase
+trying out abort
+
