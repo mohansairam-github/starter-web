@@ -19,4 +19,5 @@ second branch without ff
 checking changes in both branches on different files
 changes made at master branch
 REALWORK done at realwork branch
+rebasing example
 
