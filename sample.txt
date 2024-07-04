@@ -22,5 +22,8 @@ REALWORK done at realwork branch
 rebasing example
 aborting rebase
 trying out abort
-testing difftoll
-
+testing difftool
+testing difftool123
+testing mergetool123
+testing mergetool456
+testing merge1456
