@@ -9,7 +9,6 @@ sample7
 sample8
 sample9
 sample10
-sample12
 testing branches
 comparing branches
 testing merge fast forward
@@ -28,6 +27,3 @@ testing difftool123
 testing mergetool123
 testing mergetool456
 testing merge1456
-testing merge1234567
-difference123
-
