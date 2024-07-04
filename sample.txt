@@ -27,3 +27,4 @@ testing difftool123
 testing mergetool123
 testing mergetool456
 testing merge1456
+checking stash
