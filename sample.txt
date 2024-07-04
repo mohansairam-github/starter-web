@@ -23,4 +23,5 @@ rebasing example
 aborting rebase
 trying out abort
 testing difftoll
+testing merge1234567
 
